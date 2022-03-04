@@ -1,0 +1,19 @@
+{
+    "team": [
+        {
+            "name": "Bogáth Máté",
+            "role": "Stúdióvezető",
+            "image": "team/bogath_mate_2018.jpg"
+        },
+        {
+            "name": "Kálóczi Kevin",
+            "role": "Tiszteletbeli tag, admin",
+            "image": "team/kaloczi_kevin_2018.jpg"
+        },
+        {
+            "name": "Hegyi Ádám",
+            "role": "Tag",
+            "image": "team/hegyi_adam_2018.jpg"
+        }
+    ]
+}
