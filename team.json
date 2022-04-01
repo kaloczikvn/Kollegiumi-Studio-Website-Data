@@ -14,6 +14,54 @@
             "name": "Hegyi Ádám",
             "role": "Tag",
             "image": "team/hegyi_adam_2018.jpg"
+        },
+        {
+            "name": "Szabó Balázs",
+            "role": "Tag"
+        },
+        {
+            "name": "Nagy Patrícia",
+            "role": "Tag"
+        },
+        {
+            "name": "Milchram Dániel",
+            "role": "Tag"
+        },
+        {
+            "name": "Fábián Balázs",
+            "role": "Tag"
+        },
+        {
+            "name": "Horváth Barnabás",
+            "role": "Tag"
+        },
+        {
+            "name": "Molnár Boldizsár",
+            "role": "Tag"
+        },
+        {
+            "name": "Lukács Dániel",
+            "role": "Tag"
+        },
+        {
+            "name": "Balogh György Márk",
+            "role": "Újonc"
+        },
+        {
+            "name": "Kovács Tamás",
+            "role": "Újonc"
+        },
+        {
+            "name": "Fülöp Kristóf",
+            "role": "Újonc"
+        },
+        {
+            "name": "Horváth Milán",
+            "role": "Újonc"
+        },
+        {
+            "name": "Löszter Damján",
+            "role": "Újonc"
         }
     ]
 }
