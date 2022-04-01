@@ -1,22 +1,22 @@
 {
     "events": [
         {
+            "title": "Széchenyi Egyetemi Napok",
+            "subTitle": "2022. ÁPR. 19., 10:00 - ÁPR. 24., 5:00",
+            "image": "events/szen2022studio.jpg",
+            "url": "https://www.facebook.com/events/795315708091236/"
+        },
+        {
+            "title": "SZErdai Őrület × Jauri × JOERJUNIOR",
+            "subTitle": "2022. MÁRCIUS 30., SZERDA, 22:00",
+            "image": "events/20220330.jpg",
+            "url": "https://www.facebook.com/events/504274974578273/"
+        },
+        {
             "title": "SZErdai Őrület × Koósz Milán × Marcee × Kollégiumi Stúdió",
             "subTitle": "2022. MÁRCIUS 2., SZERDA, 22:00",
             "image": "events/20220302.jpg",
             "url": "https://www.facebook.com/events/475548490957229/"
-        },
-        {
-            "title": "SZErdai Őrület × Ciggi × Varning × Marcee × Kollégiumi Stúdió",
-            "subTitle": "2022. FEBRUÁR 23., SZERDA, 22:00",
-            "image": "events/20220223.jpg",
-            "url": "https://www.facebook.com/events/517745016527770/"
-        },
-        {
-            "title": "SZEN 2022",
-            "subTitle": "2022. ÁPR. 19., 10:00 - ÁPR. 24., 5:00",
-            "image": "events/szen2022.jpg",
-            "url": "https://www.facebook.com/events/795315708091236/"
         }
     ]
 }
