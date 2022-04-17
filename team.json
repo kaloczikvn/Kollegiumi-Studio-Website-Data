@@ -6,6 +6,10 @@
             "image": "team/bogath_mate_2018.jpg"
         },
         {
+            "name": "Milchram Dániel",
+            "role": "Műszaki Vezető"
+        },
+        {
             "name": "Kálóczi Kevin",
             "role": "Tiszteletbeli tag, admin",
             "image": "team/kaloczi_kevin_2018.jpg"
@@ -16,19 +20,11 @@
             "image": "team/hegyi_adam_2018.jpg"
         },
         {
-            "name": "Szabó Balázs",
+            "name": "Árvai Kristóf",
             "role": "Tag"
         },
         {
             "name": "Nagy Patrícia",
-            "role": "Tag"
-        },
-        {
-            "name": "Milchram Dániel",
-            "role": "Tag"
-        },
-        {
-            "name": "Fábián Balázs",
             "role": "Tag"
         },
         {
@@ -44,23 +40,35 @@
             "role": "Tag"
         },
         {
-            "name": "Balogh György Márk",
-            "role": "Újonc"
-        },
-        {
-            "name": "Kovács Tamás",
-            "role": "Újonc"
-        },
-        {
-            "name": "Fülöp Kristóf",
-            "role": "Újonc"
-        },
-        {
             "name": "Horváth Milán",
             "role": "Újonc"
         },
         {
-            "name": "Löszter Damján",
+            "name": "Benczik Krisztina",
+            "role": "Újonc"
+        },
+        {
+            "name": "Rácz Dorina",
+            "role": "Újonc"
+        },
+        {
+            "name": "Vécsei László",
+            "role": "Újonc"
+        }
+        {
+            "name": "Vörös Gábor",
+            "role": "Újonc"
+        }
+        {
+            "name": "Kovács Benedek",
+            "role": "Újonc"
+        }
+        {
+            "name": "Mestery Márton",
+            "role": "Újonc"
+        }
+        {
+            "name": "Tóta Vince",
             "role": "Újonc"
         }
     ]
