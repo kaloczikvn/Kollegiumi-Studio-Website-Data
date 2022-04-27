@@ -1,6 +1,12 @@
 {
     "events": [
         {
+            "title": "Szerdai Őrület × VARNING × Marcee × Kollégiumi Stúdió",
+            "subTitle": "2022. ÁPRILIS. 27., SZERDA, 22:00",
+            "image": "events/20220427.jpg",
+            "url": "https://www.facebook.com/events/502319584857492/"
+        },
+        {
             "title": "Széchenyi Egyetemi Napok",
             "subTitle": "2022. ÁPR. 19., 10:00 - ÁPR. 24., 5:00",
             "image": "events/szen2022studio.jpg",
@@ -11,12 +17,6 @@
             "subTitle": "2022. MÁRCIUS 30., SZERDA, 22:00",
             "image": "events/20220330.jpg",
             "url": "https://www.facebook.com/events/504274974578273/"
-        },
-        {
-            "title": "SZErdai Őrület × Koósz Milán × Marcee × Kollégiumi Stúdió",
-            "subTitle": "2022. MÁRCIUS 2., SZERDA, 22:00",
-            "image": "events/20220302.jpg",
-            "url": "https://www.facebook.com/events/475548490957229/"
         }
     ]
 }
