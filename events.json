@@ -1,6 +1,12 @@
 {
     "events": [
         {
+            "title": "Pont Ott Parti - Győr 2022",
+            "subTitle": "2022. JÚLIUS. 21., CSÜTÖRTÖK, 18:00 – 22:30",
+            "image": "events/pontottparti2022.jpg",
+            "url": "https://www.facebook.com/events/1090827138524459"
+        },
+        {
             "title": "Szerdai Őrület × VARNING × Marcee × Kollégiumi Stúdió",
             "subTitle": "2022. ÁPRILIS. 27., SZERDA, 22:00",
             "image": "events/20220427.jpg",
@@ -11,12 +17,6 @@
             "subTitle": "2022. ÁPR. 19., 10:00 - ÁPR. 24., 5:00",
             "image": "events/szen2022studio.jpg",
             "url": "https://www.facebook.com/events/795315708091236/"
-        },
-        {
-            "title": "SZErdai Őrület × Jauri × JOERJUNIOR",
-            "subTitle": "2022. MÁRCIUS 30., SZERDA, 22:00",
-            "image": "events/20220330.jpg",
-            "url": "https://www.facebook.com/events/504274974578273/"
         }
     ]
 }
