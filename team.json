@@ -7,7 +7,8 @@
         },
         {
             "name": "Milchram Dániel",
-            "role": "Műszaki Vezető"
+            "role": "Műszaki Vezető",
+            "image": "team/milchram_daniel.jpg"
         },
         {
             "name": "Kálóczi Kevin",
@@ -15,21 +16,25 @@
             "image": "team/kaloczi_kevin_2018.jpg"
         },
         {
+            "name": "Benczik Krisztina",
+            "role": "Tag",
+            "image": "team/benczik_krisztina.jpg"
+        },
+        {
             "name": "Hegyi Ádám",
             "role": "Tag",
-            "image": "team/hegyi_adam_2018.jpg"
+            "image": "team/hegyi_adam.jpg"
         },
         {
-            "name": "Árvai Kristóf",
-            "role": "Tag"
+            "name": "Kovács Benedek",
+            "role": "Tag",
+            "image": "team/kovacs_benedek.jpg"
         },
         {
-            "name": "Nagy Patrícia",
-            "role": "Tag"
-        },
-        {
-            "name": "Horváth Barnabás",
-            "role": "Tag"
+            "name": "Molnár Boldizsár",
+            "role": "Tag",
+            "image": "team/mmolnar_boldizsar.jpg"
+
         },
         {
             "name": "Molnár Boldizsár",
