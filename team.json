@@ -11,11 +11,6 @@
             "image": "team/milchram_daniel.jpg"
         },
         {
-            "name": "Kálóczi Kevin",
-            "role": "Tiszteletbeli tag, admin",
-            "image": "team/kaloczi_kevin_2018.jpg"
-        },
-        {
             "name": "Benczik Krisztina",
             "role": "Tag",
             "image": "team/benczik_krisztina.jpg"
@@ -37,44 +32,97 @@
 
         },
         {
-            "name": "Molnár Boldizsár",
+            "name": "Tóta Vince",
+            "role": "Tag",
+            "image": "team/tota_vince.jpg"
+
+            
+        },
+        {
+            "name": "Árvai Kristóf",
             "role": "Tag"
-        },
-        {
-            "name": "Lukács Dániel",
-            "role": "Tag"
-        },
-        {
-            "name": "Horváth Milán",
-            "role": "Újonc"
-        },
-        {
-            "name": "Benczik Krisztina",
-            "role": "Újonc"
-        },
-        {
-            "name": "Rácz Dorina",
-            "role": "Újonc"
-        },
-        {
-            "name": "Vécsei László",
-            "role": "Újonc"
-        },
-        {
-            "name": "Vörös Gábor",
-            "role": "Újonc"
-        },
-        {
-            "name": "Kovács Benedek",
-            "role": "Újonc"
         },
         {
             "name": "Mestery Márton",
-            "role": "Újonc"
+            "role": "Tag"
         },
         {
-            "name": "Tóta Vince",
-            "role": "Újonc"
+            "name": "Rácz Dorina",
+            "role": "Tag, marketinges"
+        },
+        {
+            "name": "Vécsei László",
+            "role": "Tag"
+        },
+        {
+            "name": "Csótár Csaba",
+            "role": "Újonc",
+            "image": "team/csotar_csaba.jpg"
+
+        },
+        {
+            "name": "Csuha Gergely",
+            "role": "Újonc",
+            "image": "team/csuha_gergely"
+
+        },
+        {
+            "name": "Ivancsó Márton",
+            "role": "Újonc",
+            "image": "teams/ivancso_marton.jpg"
+
+        },
+        {
+            "name": "Kiss Zsombor",
+            "role": "Újonc",
+            "image": "team/kiss_zsombor.jpg"
+
+        },
+        {
+            "name": "Makrai Kristóf Ábel",
+            "role": "Újonc",
+            "image": "team/makrai_kristof.jpg"
+
+        },
+        {
+            "name": "Márfi Olivér",
+            "role": "Újonc",
+            "image": "team/marfi_oliver.jpg"
+        },
+        {
+            "name": "Mészáros Menyhért Mór",
+            "role": "Újonc",
+            "image": "team/meszaros_menyhert.jpg"
+        },
+        {
+            "name": "Németh Zalán",
+            "role": "Újonc",
+            "image": "team/nemeth_zalan.jpg"
+        },
+        {
+            "name": "Papp Bálint",
+            "role": "Újonc",
+            "image": "team/papp_balint.jpg"
+        },
+        {
+            "name": "Seres Ádám",
+            "role": "Újonc",
+            "image": "team/seres_adam.jpg"
+        },
+        {
+            "name": "Takács kristóf",
+            "role": "Újonc",
+            "image": "team/takacs_kristof.jpg"
+        },
+        {
+            "name": "Varjú Vilmos",
+            "role": "Újonc",
+            "image": "team/varju_vilmos.jpg"
+        },
+        {
+            "name": "Kálóczi Kevin",
+            "role": "Tiszteletbeli tag, admin",
+            "image": "team/kaloczi_kevin_2018.jpg"
         }
     ]
 }
