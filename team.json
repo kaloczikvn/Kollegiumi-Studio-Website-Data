@@ -11,14 +11,21 @@
             "image": "team/milchram_daniel.jpg"
         },
         {
-            "name": "Benczik Krisztina",
-            "role": "Tag",
-            "image": "team/benczik_krisztina.jpg"
-        },
-        {
             "name": "Hegyi Ádám",
             "role": "Tag",
             "image": "team/hegyi_adam.jpg"
+        },
+        {
+            "name": "Ivancsó Márton",
+            "role": "Tag",
+            "image": "team/ivancso_marton.jpg"
+
+        },
+        {
+            "name": "Kiss Zsombor",
+            "role": "Tag",
+            "image": "team/kiss_zsombor.jpg"
+
         },
         {
             "name": "Kovács Benedek",
@@ -26,10 +33,26 @@
             "image": "team/kovacs_benedek.jpg"
         },
         {
+            "name": "Makrai Kristóf Ábel",
+            "role": "Tag",
+            "image": "team/makrai_kristof.jpg"
+
+        },
+        {
             "name": "Molnár Boldizsár",
             "role": "Tag",
             "image": "team/molnar_boldizsar.jpg"
 
+        },
+        {
+            "name": "Seres Ádám",
+            "role": "Tag",
+            "image": "team/seres_adam.jpg"
+        },
+        {
+            "name": "Takács kristóf",
+            "role": "Tag",
+            "image": "team/takacs_kristof.jpg"
         },
         {
             "name": "Tóta Vince",
@@ -67,24 +90,6 @@
 
         },
         {
-            "name": "Ivancsó Márton",
-            "role": "Újonc",
-            "image": "team/ivancso_marton.jpg"
-
-        },
-        {
-            "name": "Kiss Zsombor",
-            "role": "Újonc",
-            "image": "team/kiss_zsombor.jpg"
-
-        },
-        {
-            "name": "Makrai Kristóf Ábel",
-            "role": "Újonc",
-            "image": "team/makrai_kristof.jpg"
-
-        },
-        {
             "name": "Márfi Olivér",
             "role": "Újonc",
             "image": "team/marfi_oliver.jpg"
@@ -103,16 +108,6 @@
             "name": "Papp Bálint",
             "role": "Újonc",
             "image": "team/papp_balint.jpg"
-        },
-        {
-            "name": "Seres Ádám",
-            "role": "Újonc",
-            "image": "team/seres_adam.jpg"
-        },
-        {
-            "name": "Takács kristóf",
-            "role": "Újonc",
-            "image": "team/takacs_kristof.jpg"
         },
         {
             "name": "Varju Vilmos",
