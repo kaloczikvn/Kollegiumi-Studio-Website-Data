@@ -1,14 +1,19 @@
 {
     "team": [
         {
-            "name": "Bogáth Máté",
+            "name": "Kovács Benedek",
             "role": "Stúdióvezető",
-            "image": "team/bogath_mate.jpg"
+            "image": "team/kovacs_benedek.jpg"
         },
         {
             "name": "Milchram Dániel",
             "role": "Műszaki Vezető",
             "image": "team/milchram_daniel.jpg"
+        },
+        {
+            "name": "Bogáth Máté",
+            "role": "Tag",
+            "image": "team/bogath_mate.jpg"
         },
         {
             "name": "Hegyi Ádám",
@@ -26,11 +31,6 @@
             "role": "Tag",
             "image": "team/kiss_zsombor.jpg"
 
-        },
-        {
-            "name": "Kovács Benedek",
-            "role": "Tag",
-            "image": "team/kovacs_benedek.jpg"
         },
         {
             "name": "Makrai Kristóf Ábel",
