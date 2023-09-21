@@ -27,12 +27,6 @@
 
         },
         {
-            "name": "Kiss Zsombor",
-            "role": "Tag",
-            "image": "team/kiss_zsombor.jpg"
-
-        },
-        {
             "name": "Makrai Kristóf Ábel",
             "role": "Tag",
             "image": "team/makrai_kristof.jpg"
@@ -45,73 +39,53 @@
 
         },
         {
-            "name": "Seres Ádám",
-            "role": "Tag",
-            "image": "team/seres_adam.jpg"
-        },
-        {
             "name": "Takács kristóf",
             "role": "Tag",
             "image": "team/takacs_kristof.jpg"
-        },
-        {
-            "name": "Tóta Vince",
-            "role": "Tag",
-            "image": "team/tota_vince.jpg"
-
-            
-        },
-        {
-            "name": "Árvai Kristóf",
-            "role": "Tag"
-        },
-        {
-            "name": "Mestery Márton",
-            "role": "Tag"
         },
         {
             "name": "Rácz Dorina",
             "role": "Tag, marketinges"
         },
         {
-            "name": "Vécsei László",
-            "role": "Tag"
+            "name": "Poscher Zsolt",
+            "role": "Tag, marketinges"
         },
         {
             "name": "Csótár Csaba",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/csotar_csaba.jpg"
 
         },
         {
             "name": "Csuha Gergely",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/csuha_gergely.jpg"
 
         },
         {
             "name": "Márfi Olivér",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/marfi_oliver.jpg"
         },
         {
             "name": "Mészáros Menyhért Mór",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/meszaros_menyhert.jpg"
         },
         {
             "name": "Németh Zalán",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/nemeth_zalan.jpg"
         },
         {
             "name": "Papp Bálint",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/papp_balint.jpg"
         },
         {
             "name": "Varju Vilmos",
-            "role": "Újonc",
+            "role": "Tag",
             "image": "team/varju_vilmos.jpg"
         }
     ]
