@@ -101,7 +101,7 @@
         },
         {
             "name": "Vécsei László",
-            "role": "Újonc",
+            "role": "Újonc"
         },
         {
             "name": "Barakonyi Attila Kevin",
@@ -112,6 +112,6 @@
             "name": "Tari Attila",
             "role": "Újonc",
             "image": "team/Tari_Attila.jpg"
-        },
+        }
     ]
 }
