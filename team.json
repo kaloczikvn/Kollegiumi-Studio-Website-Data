@@ -16,6 +16,11 @@
             "image": "team/bogath_mate.jpg"
         },
         {
+            "name": "Nemeskeri Kamilla",
+            "role": "Újonc",
+            "image": "team/nemeskeri_kamilla.jpg"
+        },
+        {
             "name": "Hegyi Ádám",
             "role": "Tag",
             "image": "team/hegyi_adam.jpg"
@@ -77,7 +82,7 @@
         {
             "name": "Batki Lóránt",
             "role": "Újonc",
-            "image": "team/Batki_Lorant.jpg"
+            "image": "team/batki_lorant.jpg"
         },
         {
             "name": "Leitermann Patrik",
@@ -97,7 +102,6 @@
         {
             "name": "Vécsei László",
             "role": "Újonc",
-            "image": "team/Vecsei_Laszlo.jpg"
         },
         {
             "name": "Barakonyi Attila Kevin",
