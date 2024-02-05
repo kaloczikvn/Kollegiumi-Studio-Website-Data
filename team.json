@@ -87,6 +87,46 @@
             "name": "Varju Vilmos",
             "role": "Tag",
             "image": "team/varju_vilmos.jpg"
+        },
+        {
+            "name": "Bartók Péter",
+            "role": "Újonc",
+            "image": "team/bartok_peter.jpg"
+        },
+        {
+            "name": "Batki Lóránt",
+            "role": "Újonc",
+            "image": "team/batki_lorant.jpg"
+        },
+        {
+            "name": "Leitermann Patrik",
+            "role": "Újonc",
+            "image": "team/leitermann_patrik.jpg"
+        },
+        {
+            "name": "Pálfalvi Áron",
+            "role": "Újonc",
+            "image": "team/palfalvi_aron.jpg"
+        },
+        {
+            "name": "Taál Norbert",
+            "role": "Újonc",
+            "image": "team/taal_norbert.jpg"
+        },
+        {
+            "name": "Vécsei László",
+            "role": "Újonc",
+            "image": "team/vecsei_laszlo.jpg"
+        },
+        {
+            "name": "Barakonyi Attila Kevin",
+            "role": "Újonc",
+            "image": "team/barakonyi_attila.jpg"
+        },
+        {
+            "name": "Tari Attila",
+            "role": "Újonc",
+            "image": "team/tari_attila.jpg"
         }
     ]
 }
