@@ -3,7 +3,7 @@
         {
             "name": "Kovács Benedek",
             "role": "Stúdióvezető",
-            "image": "team/kovacs_benedek.jpg"
+            "image": "team/Kovacs_Benedek.jpg"
         },
         {
             "name": "Milchram Dániel",
@@ -27,12 +27,6 @@
 
         },
         {
-            "name": "Makrai Kristóf Ábel",
-            "role": "Tag",
-            "image": "team/makrai_kristof.jpg"
-
-        },
-        {
             "name": "Molnár Boldizsár",
             "role": "Tag",
             "image": "team/molnar_boldizsar.jpg"
@@ -41,92 +35,79 @@
         {
             "name": "Takács kristóf",
             "role": "Tag",
-            "image": "team/takacs_kristof.jpg"
-        },
-        {
-            "name": "Rácz Dorina",
-            "role": "Tag, marketinges"
+            "image": "team/Takacs_Kristof.jpg"
         },
         {
             "name": "Poscher Zsolt",
             "role": "Tag, marketinges"
+            "image": "team/Poscher_Zsolt.jpg"
         },
         {
             "name": "Csótár Csaba",
             "role": "Tag",
-            "image": "team/csotar_csaba.jpg"
+            "image": "team/Csotar_Csaba.jpg"
 
         },
         {
             "name": "Csuha Gergely",
             "role": "Tag",
-            "image": "team/csuha_gergely.jpg"
+            "image": "team/Csuha_Gergely.jpg"
 
-        },
-        {
-            "name": "Márfi Olivér",
-            "role": "Tag",
-            "image": "team/marfi_oliver.jpg"
         },
         {
             "name": "Mészáros Menyhért Mór",
             "role": "Tag",
-            "image": "team/meszaros_menyhert.jpg"
-        },
-        {
-            "name": "Németh Zalán",
-            "role": "Tag",
-            "image": "team/nemeth_zalan.jpg"
+            "image": "team/Meszaros_Menyhert.jpg"
         },
         {
             "name": "Papp Bálint",
             "role": "Tag",
-            "image": "team/papp_balint.jpg"
+            "image": "team/Papp_Balint.jpg"
         },
         {
             "name": "Varju Vilmos",
             "role": "Tag",
-            "image": "team/varju_vilmos.jpg"
+            "image": "team/Varju_Vilmos.jpg"
         },
         {
             "name": "Bartók Péter",
             "role": "Újonc",
-            "image": "team/bartok_peter.jpg"
+            "image": "team/Bartok_Peter.jpg"
         },
         {
             "name": "Batki Lóránt",
             "role": "Újonc",
-            "image": "team/batki_lorant.jpg"
+            "image": "team/Batki_Lorant.jpg"
         },
         {
             "name": "Leitermann Patrik",
             "role": "Újonc",
-            "image": "team/leitermann_patrik.jpg"
+            "image": "team/Leitermann_Patrik.jpg"
         },
         {
             "name": "Pálfalvi Áron",
             "role": "Újonc",
-            "image": "team/palfalvi_aron.jpg"
+            "image": "team/Palfalvi_Aron.jpg"
         },
         {
             "name": "Taál Norbert",
             "role": "Újonc",
-            "image": "team/taal_norbert.jpg"
+            "image": "team/Taal_Norbert.jpg"
         },
         {
             "name": "Vécsei László",
             "role": "Újonc",
-            "image": "team/vecsei_laszlo.jpg"
+            "image": "team/Vecsei_Laszlo.jpg"
         },
         {
             "name": "Barakonyi Attila Kevin",
             "role": "Újonc",
-            "image": "team/barakonyi_attila.jpg"
+            "image": "team/Barakonyi_Attila.jpg"
         },
         {
             "name": "Tari Attila",
             "role": "Újonc",
-            "image": "team/tari_attila.jpg"
+            "image": "team/Tari_Attila.jpg"
         }
     ]
 }
