@@ -1,9 +1,26 @@
 {
     "team": [
-        {
-            "name": "Kovács Benedek",
-            "role": "Stúdióvezető",
-            "image": "team/Kovacs_Benedek.jpg"
-        } 
+        { "name": "Kovács Benedek", "role": "Stúdióvezető", "image": "team/Kovacs_Benedek.jpg" },
+        { "name": "Milchram Dániel", "role": "Műszaki Vezető", "image": "team/milchram_daniel.jpg" },
+        { "name": "Bogáth Máté", "role": "Tag", "image": "team/bogath_mate.jpg" },
+        { "name": "Nemeskeri Kamilla", "role": "Újonc, Marketing", "image": "team/nemeskeri_kamilla.jpg" },
+        { "name": "Hegyi Ádám", "role": "Tag", "image": "team/hegyi_adam.jpg" },
+        { "name": "Ivancsó Márton", "role": "Tag", "image": "team/ivancso_marton.jpg" },
+        { "name": "Molnár Boldizsár", "role": "Tag", "image": "team/molnar_boldizsar.jpg" },
+        { "name": "Takács kristóf", "role": "Tag", "image": "team/Takacs_Kristof.jpg" },
+        { "name": "Poscher Zsolt", "role": "Tag", "image": "team/Poscher_Zsolt.jpg" },
+        { "name": "Csótár Csaba", "role": "Tag", "image": "team/Csotar_Csaba.jpg" },
+        { "name": "Csuha Gergely", "role": "Tag", "image": "team/Csuha_Gergely.jpg" },
+        { "name": "Mészáros Menyhért Mór", "role": "Tag", "image": "team/Meszaros_Menyhert.jpg" },
+        { "name": "Papp Bálint", "role": "Tag", "image": "team/Papp_Balint.jpg" },
+        { "name": "Varju Vilmos", "role": "Tag", "image": "team/Varju_Vilmos.jpg" },
+        { "name": "Bartók Péter", "role": "Újonc", "image": "team/Bartok_Peter.jpg" },
+        { "name": "Batki Lóránt", "role": "Újonc", "image": "team/batki_lorant.jpg" },
+        { "name": "Leitermann Patrik", "role": "Újonc", "image": "team/Leitermann_Patrik.jpg" },
+        { "name": "Pálfalvi Áron", "role": "Újonc", "image": "team/Palfalvi_Aron.jpg" },
+        { "name": "Taál Norbert", "role": "Újonc", "image": "team/Taal_Norbert.jpg" },
+        { "name": "Vécsei László", "role": "Újonc" },
+        { "name": "Barakonyi Attila Kevin", "role": "Újonc", "image": "team/Barakonyi_Attila.jpg" },
+        { "name": "Tari Attila", "role": "Újonc", "image": "team/Tari_Attila.jpg" }
     ]
 }
