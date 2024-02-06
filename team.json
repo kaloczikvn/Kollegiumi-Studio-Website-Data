@@ -1,6 +1,6 @@
 {
     "team": [
-        { "name": "Kovács Benedek", "role": "Stúdióvezető", "image": "team/Kovacs_Benedek.jpg" },
+        { "name": "Kovács Benedek", "role": "Stúdióvezető", "image": "team/kovacs_benedek.jpg" },
         { "name": "Milchram Dániel", "role": "Műszaki Vezető", "image": "team/milchram_daniel.jpg" },
         { "name": "Bogáth Máté", "role": "Tag", "image": "team/bogath_mate.jpg" },
         { "name": "Nemeskeri Kamilla", "role": "Újonc, Marketing", "image": "team/nemeskeri_kamilla.jpg" },
