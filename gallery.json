@@ -1,0 +1,28 @@
+{
+    "gallery": [
+        {
+            "image": "gallery/bogath_szakerto.jpg"
+        },
+        {
+            "image": "gallery/eredmény_mt.jpg"
+        },
+        {
+            "image": "gallery/farsang.jpg"
+        },
+        {
+            "image": "gallery/gt_2018.jpg"
+        },
+        {
+            "image": "gallery/bridge.jpg"
+        },
+        {
+            "image": "gallery/karestely.jpg"
+        },
+        {
+            "image": "gallery/slider_norbiek.jpg"
+        },
+        {
+            "image": "gallery/slider_tropi.jpg"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "team": [
+        { "name": "Varju Vilmos", "role": "Stúdióvezető", "image": "team/Varju_Vilmos.jpg" },
+        { "name": "Poscher Zsolt", "role": "Műszaki vezető", "image": "team/Poscher_Zsolt.jpg" },
+        { "name": "Szabó Lóránt", "role": "Főszerkesztő", "image": "" },
+        { "name": "Nemeskeri Kamilla", "role": "Tag, Marketing", "image": "team/nemeskeri_kamilla.jpg" },
+        { "name": "Kovács Benedek", "role": "Tag", "image": "team/kovacs_benedek.jpg" },
+        { "name": "Bogáth Máté", "role": "Tag", "image": "team/bogath_mate.jpg" },
+        { "name": "Ivancsó Márton", "role": "Tag", "image": "team/ivancso_marton.jpg" },
+        { "name": "Molnár Boldizsár", "role": "Tag", "image": "team/molnar_boldizsar.jpg" },
+        { "name": "Takács kristóf", "role": "Tag", "image": "team/Takacs_Kristof.jpg" },
+        { "name": "Csótár Csaba", "role": "Tag", "image": "team/Csotar_Csaba.jpg" },
+        { "name": "Csuha Gergely", "role": "Tag", "image": "team/Csuha_Gergely.jpg" },
+        { "name": "Papp Bálint", "role": "Tag", "image": "team/Papp_Balint.jpg" },
+        { "name": "Bartók Péter", "role": "Tag", "image": "team/Bartok_Peter.jpg" },
+        { "name": "Pálfalvi Áron", "role": "Tag", "image": "team/Palfalvi_Aron.jpg" },
+        { "name": "Tari Attila", "role": "Tag", "image": "team/Tari_Attila.jpg" },
+        { "name": "Szukop Anna", "role": "Tag", "image": ""},
+        { "name": "Gombás Gréta", "role": "Tag", "image": ""},
+        { "name": "Darabos Benjamin", "role": "Tag", "image": ""},
+        { "name": "Plechl Csongor", "role": "Tag", "image": ""},
+        { "name": "Németh Kristóf", "role": "Tag", "image": ""},
+        { "name": "Lévai Levente", "role": "Tag", "image": ""},
+        { "name": "Veréb Szabolcs", "role": "Tag", "image": ""},
+        { "name": "Németh Zalán", "role": "Tag", "image": ""},
+        { "name": "Szalai Zalán", "role": "Tag", "image": ""},
+        { "name": "Budai Zsombor", "role": "Tag", "image": ""},
+        { "name": "Csillag Ádám", "role": "Tag", "image": ""},
+        { "name": "Kiss Ádám", "role": "Tag", "image": ""},
+        { "name": "Kovács Ádám", "role": "Tag", "image": ""},
+        { "name": "Walke Gábor", "role": "Tag", "image": ""}
+    ]
+}

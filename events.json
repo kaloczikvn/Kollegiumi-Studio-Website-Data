@@ -1,0 +1,22 @@
+{
+    "events": [
+        {
+            "title": "SZEmeszternyitó",
+            "subTitle": "2023. SZEPTEMBER. 26., KEDD, 18:00 – 0:00",
+            "image": "events/Szemeszternyitó.jpg",
+            "url": "https://www.facebook.com/events/1366049984341511"
+        },
+        {
+            "title": "GSZNHK Autóstalálkozó és Kiállítás",
+            "subTitle": "2024. ÁPRILIS. 07., VASÁRNAP, 14:00 - 19:00",
+            "image": "events/GSZNHK.jpg",
+            "url": "https://www.facebook.com/events/24751902634456111?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D"
+        },
+        {
+            "title": "Széchenyi Egyetemi Napok",
+            "subTitle": "2024. ÁPR. 16., 10:00 - ÁPR. 20., 5:00",
+            "image": "events/SZEN2024.jpg",
+            "url": "https://www.facebook.com/szenfeszt"
+        }
+    ]
+}
